@@ -1,6 +1,6 @@
 # Spotify To YTMusic converter
 
-## DISCLAIMER: current project will not work without inserting your own client_id and client_secret into assets/config.py
+#### DISCLAIMER: current project will not work without inserting your own client_id and client_secret into assets/config.py
 
 The project is an implementation of the Spotify to YTMusic playlist/song converter. App could transfer your 
 playlists/songs with easy and no need in manually searching for each song.

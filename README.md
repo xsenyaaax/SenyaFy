@@ -1,5 +1,7 @@
 # Spotify To YTMusic converter
 
+## DISCLAIMER: current project will not work without inserting your own client_id and client_secret into assets/config.py
+
 The project is an implementation of the Spotify to YTMusic playlist/song converter. App could transfer your 
 playlists/songs with easy and no need in manually searching for each song.
 
@@ -15,11 +17,6 @@ playlists/songs with easy and no need in manually searching for each song.
 ## Installation
 
 To install this project, simply download the files and place them in the desired directory on your local machine.
-
-You can download the files by cloning the repository:
-```bash
-https://gitlab.fit.cvut.cz/BI-PYT/b231/pogodars.git
-```
 
 ## Requirements
 
